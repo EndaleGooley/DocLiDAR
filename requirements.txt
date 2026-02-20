@@ -1,0 +1,5 @@
+numpy
+PyMuPDF
+pillow
+matplotlib
+docx2pdf; platform_system != "Linux"
